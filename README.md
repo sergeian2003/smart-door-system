@@ -2,9 +2,13 @@
 
 A secure, DIY smart access control system powered by **Raspberry Pi**, **Computer Vision**, and a cross-platform **Flutter App**. This project combines facial recognition, QR code guest access, and remote management via Telegram and a mobile application.
 
-![Project Status](https://img.shields.io/badge/Status-Completed-success)
-![Python](https://img.shields.io/badge/Backend-Python%20%7C%20FastAPI-blue)
-![Flutter](https://img.shields.io/badge/Frontend-Flutter%20%7C%20Dart-02569B)
+## Interface Gallery
+
+| Mobile App (Flutter) | Telegram Bot (Alerts & QR) |
+|:--------------------:|:--------------------------:|
+| ![App UI](screenshots/app_ui.png) | ![Telegram Bot](screenshots/telegram_bot.jpg) |
+
+---
 
 ## Key Features
 
@@ -109,7 +113,3 @@ flutter run
 
 * **Local Processing:** Facial recognition is performed locally on the Raspberry Pi; no biometric data or images are sent to the cloud (except for Telegram intrusion alerts).
 * **API Security:** The FastAPI endpoints are protected by a custom secret key. The Flutter app stores this API Key in the device's encrypted secure storage (Keychain/Keystore).
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
