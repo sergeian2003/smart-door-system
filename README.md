@@ -6,7 +6,7 @@ A secure, DIY smart access control system powered by **Raspberry Pi**, **Compute
 
 | Mobile App (Flutter) | Telegram Bot (Alerts & QR) |
 |:--------------------:|:--------------------------:|
-| ![App UI](screenshots/app_ui.png) | ![Telegram Bot](screenshots/telegram_bot.jpg) |
+| ![App UI](screenshots/app_ui.png) | ![Telegram Bot](screenshots/telegram_bot.png) |
 
 ---
 
