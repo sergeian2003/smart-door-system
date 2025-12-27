@@ -4,7 +4,7 @@ A secure, DIY smart access control system powered by **Raspberry Pi**, **Compute
 
 ## Interface Gallery
 
-| Mobile App (Flutter) |
+| Hardware Setup |
 |:--------------------:|
 | <img width="2816" height="1536" alt="hardware_setup" src="https://github.com/user-attachments/assets/b4138271-ec72-48a0-b207-714a44483b42" /> |
 
