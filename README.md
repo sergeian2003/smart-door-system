@@ -4,6 +4,11 @@ A secure, DIY smart access control system powered by **Raspberry Pi**, **Compute
 
 ## Interface Gallery
 
+| Mobile App (Flutter) |
+|:--------------------:|
+| <img width="2816" height="1536" alt="hardware_setup" src="https://github.com/user-attachments/assets/b4138271-ec72-48a0-b207-714a44483b42" /> |
+
+
 | Mobile App (Flutter) | Telegram Bot (Alerts & QR) |
 |:--------------------:|:--------------------------:|
 | ![App UI](screenshots/app_ui.png) | ![Telegram Bot](screenshots/telegram_bot.png) |
