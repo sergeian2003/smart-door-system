@@ -1,0 +1,21 @@
+# Python & Backend
+__pycache__/
+*.py[cod]
+venv/
+.env
+*.db
+*.pickle
+*.log
+
+# Flutter & Mobile
+/mobile_app/build/
+/mobile_app/.dart_tool/
+/mobile_app/.idea/
+/mobile_app/.vscode/
+/mobile_app/android/.gradle
+/mobile_app/ios/.symlinks
+/mobile_app/ios/Pods
+
+# System
+.DS_Store
+Thumbs.db
